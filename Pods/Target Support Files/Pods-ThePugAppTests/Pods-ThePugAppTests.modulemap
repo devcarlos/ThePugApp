@@ -1,0 +1,6 @@
+framework module Pods_ThePugAppTests {
+  umbrella header "Pods-ThePugAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

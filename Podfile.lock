@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.6.4)
+  - SDWebImage (5.15.5):
+    - SDWebImage/Core (= 5.15.5)
+  - SDWebImage/Core (5.15.5)
+  - SwiftLint (0.50.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImage (~> 5.11)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  SDWebImage: fd7e1a22f00303e058058278639bf6196ee431fe
+  SwiftLint: 77f7cb2b9bb81ab4a12fcc86448ba3f11afa50c6
+
+PODFILE CHECKSUM: 9d4d71a67a03ac1d528a843d311d2a1bea59c3f6
+
+COCOAPODS: 1.11.3
