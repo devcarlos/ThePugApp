@@ -1,5 +1,5 @@
 # ThePugApp
-The Movie App Swift - iOS Application to handle The Pug challenge using Xcode and Swift
+The Pug App Swift - iOS Application to handle The Pug challenge using Xcode and Swift
 
 - [Architecture](#Architecture)
 - [Frameworks](#Frameworks)
@@ -34,7 +34,7 @@ The app is using some external frameworks dependencies using Cocoapods:
     - A network layer to handle REST API requests for HTTP request, used to implement the Service Network API calls.
 
 - ### SDWebImage
-    - A framework to handle image URL downloads easy and quick to download and display the Movie Posters 
+    - A framework to handle image URL downloads easy and quick to download and display the Pug Images
 
 - ### SwiftLint
     - A framework to handle best practices lint rules for Swift used as a best practice
@@ -61,7 +61,7 @@ This project use Xcode 12.4 and CocoaPods for dependencies,
 ## Structure
 In the root of the project we found this folder structure and files:
 ```
-|-- TheMoviewDBApp
+|-- ThePugApp
   |-- App
   |-- Assets
   |-- Common
